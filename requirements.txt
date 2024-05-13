@@ -1,0 +1,4 @@
+Pillow==9.4.0
+Pillow==10.3.0
+python-telegram-bot==21.1.1
+Requests==2.31.0
